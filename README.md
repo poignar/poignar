@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 I’m currently working on deeplearning
+- 🌱 I’m currently learning carbon neutrality 
+- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=poignar)](https://github.com/ryo-ma/github-profile-trophy)
